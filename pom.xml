@@ -4,7 +4,7 @@
 
 	<groupId>org.warn</groupId>
 	<artifactId>java-misc</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 	<name>java-misc</name>
 
